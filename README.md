@@ -26,15 +26,10 @@ The analysis uses the `international_debt` table from The World Bank:
 
 **Timor-Leste has the lowest principal repayments** on external long-term debt at $825,000 USD.
 
-## Files
-
-- `notebook.ipynb` — Jupyter notebook containing SQL queries and results
-- `image.jpg` — Project header image
-
 ## Tools
 
 - PostgreSQL
-- DataCamp Workspace
+- Jupyter Notebook
 
 ---
 
